@@ -12,13 +12,7 @@ A cricket analytics project combining Python and Power BI to analyze player perf
 - Dynamic filtering by player, team, match type
 - Cleaned and transformed data using Python
 
-## 🚀 How to Use
-1. Run the Python script (`cricket_data_cleaning.py`) to clean the raw data (if applicable).
-2. Load the processed data into the `.pbix` file.
-3. Open the file in **Power BI Desktop** and explore.
-
 ## 📸 Dashboard Preview
-![Cricket Dashboard](assets/cricket-dashboard.png)
+![Cricket Dashboard](assets/cricket-dashboard)
 
-## 🔗 Live Project
-[GitHub Repository](https://github.com/ChaseMewara/Cricket-Performance-Analytics-Dashboard.git)
+
